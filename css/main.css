@@ -405,7 +405,7 @@ input {
 .white:hover {
   color: var(--accent-color);
 }
-.accent:hover .white, .logo:focus .white {
+.logo:hover .white, .logo:focus .white {
   color: var(--accent-color);
 }
 
